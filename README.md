@@ -33,7 +33,7 @@ Now let's move to the configuration part.
 3. Open phpmyadmin from  xampp.
 4. Create a database name "ecommerce_db".
 5. Then import the ecommerce.sql file inside DATABASE FILE folder in the database.
-6. Then write http://localhost/ecommerce-website for client side access and  http://localhost/ecommerce-website/admin/login.php for admin login in your browser.
+6. Then write http://localhost/ecommerce-website-final for client side access and  http://localhost/ecommerce-website-final/admin/login.php for admin login in your browser.
 7. For admin login: 
 Username: admin
 Password: 123456
