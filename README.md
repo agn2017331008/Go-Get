@@ -37,3 +37,6 @@ Now let's move to the configuration part.
 7. For admin login: 
 Username: admin
 Password: 123456
+
+Here is the demo video link :
+https://drive.google.com/file/d/1hT4rsUwS3Soo1aQHo0ykVnRc_FoAj_-z/view?usp=sharing
